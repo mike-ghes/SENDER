@@ -1,4 +1,5 @@
-# S~~L~~ENDER
+![S~~L~~ENDER](https://raw.githubusercontent.com/mike-ghes/SENDER/master/banner.png)
+
 
 "Sender: A Postal Service Horror Game"
 
